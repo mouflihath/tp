@@ -1,0 +1,221 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+    
+}
+
+
+
+.btn{
+    width: 10%;
+    padding:    0px ;
+    border: 2px;
+    border-radius: 5px;
+    height: 10vh;
+    display: block;
+    margin-top: 10px;
+    
+    margin-left: -20px; 
+    
+    
+}  
+
+p{
+    text-align: center;
+    align-items: center;
+    margin-left: 100px;
+}
+    
+
+.btn img{
+    width: 20px;
+    height: 20px;
+    margin-right: 6px;
+
+}
+
+
+
+
+.b1{
+background-color: black;
+color: white;
+height: 50px;
+width: 300px;
+text-align: center;
+align-items: center;
+border: 1px solid rgb(29, 29, 29);
+border-radius:5px ;
+margin-left: 35px;
+
+
+}
+.b2{
+margin-top: 10px;
+height: 50px;
+width: 300px;
+font-size: 12px;
+text-align: center;
+align-items: center;
+font-weight: bold;
+background-color: white;
+
+border: 1px solid rgb(234, 228, 228);
+border-radius:5px ;
+margin-left: 35px;
+}
+.b3{
+margin-top: 20px;
+height: 50px;
+width: 300px;
+font-size: 12px;
+text-align: center;
+align-items: center;
+font-weight: bold;
+background-color: white;
+border: 1px solid rgb(234, 228, 228);
+border-radius:5px ;
+margin-left: 35px;
+
+}
+
+#Name{
+
+margin-bottom: 40px;
+border-bottom: 10px;
+border-left: 0px;
+border-right: 0px;
+border-color: azure;
+box-sizing: 20px;
+width: 300px;
+height: 30px;
+margin-top: 20px;
+}
+
+#Email{
+margin-bottom: 40px;
+border-bottom: 10px;
+border-left: 0px;
+border-right: 0px;
+border-color: azure;
+box-sizing: 20px;
+width: 300px;
+height: 40px;
+}
+
+#Passeword{
+margin-bottom: 8px;
+border-bottom: 10px;
+border-left: 0px;
+border-right: 0px;
+border-color: azure;
+box-sizing: 20px;
+width: 300px;
+height: 30px;
+}
+
+.entrer{
+    padding: 20px;
+    
+    
+}
+
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    
+
+}
+
+p{
+    font-size: 10;
+    white-space: nowrap;
+    margin-top: 10px;
+
+}
+
+h4 img{
+    height:50px;
+    background-color: white;
+    
+}
+h4{
+    font-size: 20px;
+    
+}
+
+.im img{
+    float: right;
+    margin-bottom: -100px;
+height: 725px;
+margin-right: 400px;
+width: 575px;
+margin-top: 6px;
+border-radius:30px 0px 30px 0px ;
+overflow: hidden;
+}
+
+
+#ol{
+    height: 40px;
+    width: 40px;
+    border: 0;
+    border-radius: 0 0 0 0;
+    padding-top:10px ;
+    float: left;
+    margin-top: -600px;
+    margin-left: 10px;
+}
+
+
+
+.general  {
+    display: flex;
+   background-color: none;
+   width: 990px; 
+   
+   border: 6px  solid beige;
+   padding: 0;
+   height: 740px;
+   border-radius: 0 0 20px 0 ;
+   
+   margin: 0 auto;
+}
+.moins{
+    text-align: center;
+    align-items: center;
+    margin-left: 0px;
+    margin-top: 30px;
+    
+    
+}
+ .pm img{
+padding-left: 0;
+margin-left: 0;
+}
+ h3 { 
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+bottom: 150px;
+position: absolute;
+   
+}
+ h5{
+    
+    color: white;
+    font-size: 16px;
+    margin: 10px;
+ }
+ h6{
+    color: white;
+    font-size: 12px;
+    margin: 10px;
+ }
+
+ 
+
+
